@@ -8,6 +8,7 @@ public class Student {
     private int id;
     private String DoB;
     
+    private int maxhours;
     public Student()
     {
         this.name = "name is not set";
