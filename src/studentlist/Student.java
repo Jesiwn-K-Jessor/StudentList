@@ -1,6 +1,6 @@
 /*location
  pandey hub
- starring ujjwal and sue */
+ */
  package studentlist;
 
 

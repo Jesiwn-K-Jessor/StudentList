@@ -8,7 +8,7 @@ public class StudentList {
     public static void main(String[] args) {
         
         Student s1 = new Student();
-        s1.setName("Jeswin");
+        s1.setName("Jeswinder");
         s1.setID(101);
         
         System.out.println("s1 ==> Name " + s1.getName() + "\ns1 ==> ID is: " + s1.getID());
